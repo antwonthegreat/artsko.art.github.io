@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/artsko.art.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/artsko.art.github.io/static/js/main.406101b9.chunk.js",
+    "main.js.map": "/artsko.art.github.io/static/js/main.406101b9.chunk.js.map",
+    "runtime-main.js": "/artsko.art.github.io/static/js/runtime-main.191c9b73.js",
+    "runtime-main.js.map": "/artsko.art.github.io/static/js/runtime-main.191c9b73.js.map",
+    "static/js/2.6cc8ffac.chunk.js": "/artsko.art.github.io/static/js/2.6cc8ffac.chunk.js",
+    "static/js/2.6cc8ffac.chunk.js.map": "/artsko.art.github.io/static/js/2.6cc8ffac.chunk.js.map",
+    "static/js/3.2b0c5462.chunk.js": "/artsko.art.github.io/static/js/3.2b0c5462.chunk.js",
+    "static/js/3.2b0c5462.chunk.js.map": "/artsko.art.github.io/static/js/3.2b0c5462.chunk.js.map",
+    "index.html": "/artsko.art.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/artsko.art.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6cc8ffac.chunk.js.LICENSE.txt": "/artsko.art.github.io/static/js/2.6cc8ffac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/artsko.art.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.191c9b73.js",
+    "static/js/2.6cc8ffac.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.406101b9.chunk.js"
+  ]
+}
