@@ -1,9 +1,0 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [{
-      "appID": "art.artsko.artsko",
-      "paths": ["/commission/*"]
-    }]
-  }
-}
